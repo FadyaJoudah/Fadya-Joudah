@@ -2,7 +2,7 @@
 
 ## ✍🏼 About me 
 
-As a Web deveoper and a former translator it is safe to say that I have always been intrested in language 
+As a Web deveoper and a former translator it is safe to say that I have always been intrested in languages 
 from Arabic to English to JavaScripts I'll be growing my stack one languge at a time (the pun is very much intended)
 
 ## 🧠 Skills
