@@ -19,6 +19,6 @@ In parallel, I've been actively exploring the dynamic field of data science. I'v
 - Data Manipulation (Pandas)
 - Machine Learning (beginner)
 
-### Contact Me
+### Contact Me 
 
 [LinkedIn](https://www.linkedin.com/in/fadyajoudah)
