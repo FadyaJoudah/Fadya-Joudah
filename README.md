@@ -15,7 +15,7 @@ In parallel, I've been actively exploring the dynamic field of data science. I'v
 - Node.js
 - Statistics
 - Exploratory Data Analysis
-- Data Visualization (Matplotlib, Seaborn)
+- Data Visualization (Matplotlib, Seaborn, tableau)
 - Data Manipulation (Pandas)
 - Machine Learning (beginner)
 
